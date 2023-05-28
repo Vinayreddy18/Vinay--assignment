@@ -1,6 +1,6 @@
 # Vinay--assignment
 
-Hosted URL:  git push -u origin main
+Hosted URL:  https://vinay-work.netlify.app/
 
 
 npm install all
